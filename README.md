@@ -8,7 +8,7 @@ The monthly SydEthereum events are typically run in the evening of the last Thur
 
 ## Telegram
 
-It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group. A lot of the SydEthereum members are in [Ethereum Australia](https://t.me/joinchat/Ay6EdUKjkX5TtlgPQ12vEA) but it is not exclusive to Sydney. There are Ethereans from around Australia and overseas on the group.
+It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group. A lot of the SydEthereum members are in [Ethereum Australia](https://t.me/joinchat/Ay6EdUKjkX5TtlgPQ12vEA) but it is not exclusive to Sydney. There are Ethereans from around Australia and overseas in the Ethereum Australia group.
 
 Other Telegram groups that might be of interest
 * [BokkyPooBah's Ethereum Workshop](https://t.me/joinchat/Ep-XOkwa_umKWXXRBGBVVQ)
@@ -21,7 +21,7 @@ Some of the past events were streamed and their recordings are available on the 
 
 ## Feedback
 
-Let us know what you think by completing the [SydEthereum 2019 Survey form](https://docs.google.com/forms/d/1rNniN9NofDP2ePShKSzEaMw5rdeKAHizGPm4P6xbqzQ/viewform). Tihs way the organisers can better plan the 2019 events.
+Let us know what you think by completing the [SydEthereum 2019 Survey form](https://docs.google.com/forms/d/1rNniN9NofDP2ePShKSzEaMw5rdeKAHizGPm4P6xbqzQ/viewform). This way the organisers can better plan the 2019 events.
 
 ## Propose a Talk
 
@@ -29,13 +29,13 @@ Please complete the [SydEthereum Talk Proposal form](https://docs.google.com/for
 
 ## Sponsorship
 
-If you'd like sponsor an event with an event space, food or drinks, please contract the organisers.
+If you'd like to sponsor an event with an event space, food or drinks, please contact the organisers.
 
 ## Code of Conduct
 
 SydEthereum is a harassment-free meetup. See the [Code of Conduct](./CodeOfConduct.md) for more details.
 
-## Other meetups you my be interested in
+## Related meetups
 
 * [Web3 Sydney](https://www.meetup.com/Web3Sydney/)
 * [
