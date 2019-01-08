@@ -6,6 +6,19 @@ Got to the [SydEthereum](https://www.meetup.com/sydeth) group on [meetup.com](ht
 
 The monthly SydEthereum events are typically run in the evening of the last Thursday of each month. See the [events page](https://www.meetup.com/sydeth/events/) for more details.
 
+## Telegram
+
+It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group. A lot of the SydEthereum members are in [Ethereum Australia](https://t.me/joinchat/Ay6EdUKjkX5TtlgPQ12vEA) but it is not exclusive to Sydney. There are Ethereans from around Australia and overseas on the group.
+
+Other Telegram groups that might be of interest
+* [BokkyPooBah's Ethereum Workshop](https://t.me/joinchat/Ep-XOkwa_umKWXXRBGBVVQ)
+* [BitFwd](t.me/bitfwd )
+* [Web3 Sydney](https://t.me/web3syd)
+
+## Videos
+
+Some of the past events were streamed and their recordings are available on the [SydEthereum YouTube Subscription](https://www.youtube.com/user/SydEthereum).
+
 ## Feedback
 
 Let us know what you think by completing the [SydEthereum 2019 Survey form](https://docs.google.com/forms/d/1rNniN9NofDP2ePShKSzEaMw5rdeKAHizGPm4P6xbqzQ/viewform). Tihs way the organisers can better plan the 2019 events.
