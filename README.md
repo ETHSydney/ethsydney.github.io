@@ -1,6 +1,6 @@
 ## Membership
 
-Got to the [SydEthereum](https://www.meetup.com/sydeth) group on [meetup.com](https://www.meetup.com) to become a member of SydEthereum.
+Go to the [SydEthereum](https://www.meetup.com/sydeth) group on [meetup.com](https://www.meetup.com) to become a member of SydEthereum.
 
 ## Upcoming Events
 
@@ -12,7 +12,7 @@ It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group
 
 Other Telegram groups that might be of interest
 * [BokkyPooBah's Ethereum Workshop](https://t.me/joinchat/Ep-XOkwa_umKWXXRBGBVVQ)
-* [BitFwd](t.me/bitfwd )
+* [BitFwd](https://t.me/bitfwd)
 * [Web3 Sydney](https://t.me/web3syd)
 
 ## Videos
@@ -29,7 +29,7 @@ Please complete the [SydEthereum Talk Proposal form](https://docs.google.com/for
 
 ## Sponsorship
 
-If you'd like to sponsor an event with an event space, food or drinks, please contact the organisers.
+If you'd like to sponsor an event with a venue, food or drinks, please contact the organisers.
 
 ## Code of Conduct
 
@@ -38,6 +38,5 @@ SydEthereum is a harassment-free meetup. See the [Code of Conduct](./CodeOfCondu
 ## Related meetups
 
 * [Web3 Sydney](https://www.meetup.com/Web3Sydney/)
-* [
-BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
+* [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
 * [Blockchain Professionals Sydney](https://www.meetup.com/Blockchain-Professionals-Sydney/)
