@@ -25,7 +25,7 @@ Let us know what you think by completing the [SydEthereum 2019 Survey form](http
 
 ## Propose a Talk
 
-Please complete the [SydEthereum Talk Proposal form](https://docs.google.com/forms/d/e/1FAIpQLScFmoo86OLTD6qWrmOFCqwtuIQM51kViUHeapscsGjGIveNNw/viewform) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
+Please complete the [SydEthereum Talk Proposal form](https://drive.google.com/open?id=18f6N2Z9gtz3NsSSaC3x3q6IzL3wRym2HvkrYvQKIOVM) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
 
 ## Sponsorship
 
@@ -37,7 +37,6 @@ SydEthereum is a harassment-free meetup. See the [Code of Conduct](./CodeOfCondu
 
 ## Related meetups
 
-* [Web3 Sydney](https://www.meetup.com/Web3Sydney/)
 * [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
 * [bitfwd](https://www.meetup.com/bitfwd/)
 * [Blockchain Professionals Sydney](https://www.meetup.com/Blockchain-Professionals-Sydney/)
