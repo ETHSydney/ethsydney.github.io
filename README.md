@@ -39,4 +39,8 @@ SydEthereum is a harassment-free meetup. See the [Code of Conduct](./CodeOfCondu
 
 * [Web3 Sydney](https://www.meetup.com/Web3Sydney/)
 * [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
+* [bitfwd](https://www.meetup.com/bitfwd/)
 * [Blockchain Professionals Sydney](https://www.meetup.com/Blockchain-Professionals-Sydney/)
+* [Blockchain for Social Impact Sydney](https://www.meetup.com/BSISyd/)
+* [Blockchain Sydney](https://www.meetup.com/Blockchain-Sydney/)
+* [BitcoinSYD](https://www.meetup.com/Bitcoin-Sydney/)
