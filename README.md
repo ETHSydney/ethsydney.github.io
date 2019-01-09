@@ -13,7 +13,6 @@ It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group
 Other Telegram groups that might be of interest
 * [BokkyPooBah's Ethereum Workshop](https://t.me/joinchat/Ep-XOkwa_umKWXXRBGBVVQ)
 * [BitFwd](https://t.me/bitfwd)
-* [Web3 Sydney](https://t.me/web3syd)
 
 ## Videos
 
