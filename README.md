@@ -36,10 +36,10 @@ ETHSydney is a harassment-free meetup. See the [Code of Conduct](./CodeOfConduct
 
 ## Related meetups
 
-* [Web3 Sydney](https://www.meetup.com/web3sydney/)
 * [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
 * [bitfwd](https://www.meetup.com/bitfwd/)
 * [Blockchain Professionals Sydney](https://www.meetup.com/Blockchain-Professionals-Sydney/)
 * [Blockchain for Social Impact Sydney](https://www.meetup.com/BSISyd/)
 * [Blockchain Sydney](https://www.meetup.com/Blockchain-Sydney/)
 * [BitcoinSYD](https://www.meetup.com/Bitcoin-Sydney/)
+* [Web3 Sydney](https://www.meetup.com/web3sydney/)
