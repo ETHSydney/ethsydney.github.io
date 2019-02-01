@@ -1,14 +1,14 @@
 ## Membership
 
-Go to the [SydEthereum](https://www.meetup.com/sydeth) group on [meetup.com](https://www.meetup.com) to become a member of SydEthereum.
+Go to the [ETHSydney](https://www.meetup.com/ethsydney) group on [meetup.com](https://www.meetup.com) to become a member of ETHSydney.
 
 ## Upcoming Events
 
-The monthly SydEthereum events are typically run in the evening of the last Thursday of each month. See the [events page](https://www.meetup.com/sydeth/events/) for more details.
+The monthly ETHSydney events are typically run in the evening of the last Thursday of each month. See the [events page](https://www.meetup.com/sydeth/events/) for more details.
 
 ## Telegram
 
-It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group. A lot of the SydEthereum members are in [Ethereum Australia](https://t.me/joinchat/Ay6EdUKjkX5TtlgPQ12vEA) but it is not exclusive to Sydney. There are Ethereans from around Australia and overseas in the Ethereum Australia group.
+It wouldn't be Blockchain without a [Telegram](https://telegram.org/) chat group. A lot of the ETHSydney members are in the [Ethereum Australia](https://t.me/joinchat/Ay6EdUKjkX5TtlgPQ12vEA) group but it is not exclusive to Sydney. There are Ethereans from around Australia and overseas in the Ethereum Australia group.
 
 Other Telegram groups that might be of interest
 * [BokkyPooBah's Ethereum Workshop](https://t.me/joinchat/Ep-XOkwa_umKWXXRBGBVVQ)
@@ -20,11 +20,11 @@ Some of the past events were streamed and their recordings are available on the 
 
 ## Feedback
 
-Let us know what you think by completing the [SydEthereum 2019 Survey form](https://docs.google.com/forms/d/1rNniN9NofDP2ePShKSzEaMw5rdeKAHizGPm4P6xbqzQ/viewform). This way the organisers can better plan the 2019 events.
+Let us know what you think by completing the [ETHSydney 2019 Survey](https://docs.google.com/forms/d/e/1FAIpQLSePCkj4Ra5_VO6D05M3bLErK8Fzo3r3T4mUlu641fQYUsMrhw/viewform). This way the organisers can better plan the 2019 events.
 
 ## Propose a Talk
 
-Please complete the [SydEthereum Talk Proposal form](https://drive.google.com/open?id=18f6N2Z9gtz3NsSSaC3x3q6IzL3wRym2HvkrYvQKIOVM) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
+Please complete the [ETHSydney Talk Proposal](https://drive.google.com/open?id=18f6N2Z9gtz3NsSSaC3x3q6IzL3wRym2HvkrYvQKIOVM) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
 
 ## Sponsorship
 
@@ -32,10 +32,11 @@ If you'd like to sponsor an event with a venue, food or drinks, please contact t
 
 ## Code of Conduct
 
-SydEthereum is a harassment-free meetup. See the [Code of Conduct](./CodeOfConduct.md) for more details.
+ETHSydney is a harassment-free meetup. See the [Code of Conduct](./CodeOfConduct.md) for more details.
 
 ## Related meetups
 
+* [Web3 Sydney](https://www.meetup.com/web3sydney/)
 * [BokkyPooBah's Ethereum Workshop](https://www.meetup.com/BokkyPooBahs-Ethereum-Workshop/)
 * [bitfwd](https://www.meetup.com/bitfwd/)
 * [Blockchain Professionals Sydney](https://www.meetup.com/Blockchain-Professionals-Sydney/)
