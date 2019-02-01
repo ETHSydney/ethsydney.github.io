@@ -24,7 +24,7 @@ Let us know what you think by completing the [ETHSydney 2019 Survey](https://doc
 
 ## Propose a Talk
 
-Please complete the [ETHSydney Talk Proposal](https://drive.google.com/open?id=18f6N2Z9gtz3NsSSaC3x3q6IzL3wRym2HvkrYvQKIOVM) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
+Please complete the [ETHSydney Talk Proposal](https://docs.google.com/forms/d/e/1FAIpQLSengVR7KUbbUPeyWTuIMvZQRXy3HzPafFmaniDE0ZPLr-4w9w/viewform) if you or someone from your organisation would like to talk at an upcoming SydEthereum event.
 
 ## Sponsorship
 
